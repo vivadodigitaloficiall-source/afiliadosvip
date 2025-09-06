@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Ajuste o domínio abaixo quando publicar:
+Sitemap: https://seu-dominio-ou-github-pages/affiliates/sitemap.xml

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Premiações por meta - Placeholder</title>
+  <desc id="desc">Imagem temporária indicando a área de premiações para afiliados. Substitua por affiliates/assets/afiliados.png.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <g fill="white" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif" text-anchor="middle">
+    <text x="600" y="280" font-size="56" font-weight="700">Premiações por meta</text>
+    <text x="600" y="340" font-size="28" opacity="0.9">Envie o arquivo affiliates/assets/afiliados.png</text>
+    <text x="600" y="380" font-size="24" opacity="0.8">Este é um placeholder temporário (SVG)</text>
+  </g>
+  <rect x="60" y="540" width="1080" height="75" rx="12" ry="12" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.25)"/>
+  <g fill="white" opacity="0.95">
+    <circle cx="110" cy="577" r="8"/>
+    <circle cx="135" cy="577" r="8"/>
+    <circle cx="160" cy="577" r="8"/>
+  </g>
+  <text x="1080" y="585" fill="white" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif" font-size="18" text-anchor="end" opacity="0.9">Affiliates • Código das Vendas</text>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Código das Vendas — Programa de Afiliados</title>
+  <desc id="desc">Imagem de compartilhamento social para o programa de afiliados.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f1436"/>
+      <stop offset="100%" stop-color="#0b0b14"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g fill="#fff" font-family="Montserrat, Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif" text-anchor="start">
+    <text x="72" y="188" font-size="58" font-weight="800">Programa de Afiliados</text>
+    <text x="72" y="246" font-size="38" opacity="0.9">Código das Vendas</text>
+    <text x="72" y="320" font-size="26" opacity="0.9">• Comissão 70%   • Cookie 7 dias   • Acompanhamento pela Kiwify</text>
+  </g>
+  <rect x="72" y="382" width="360" height="64" rx="14" ry="14" fill="#7c3aed"/>
+  <text x="252" y="425" fill="#0b0616" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu" font-size="28" font-weight="800" text-anchor="middle">Afiliar pela Kiwify</text>
+</svg>
